@@ -1,0 +1,6 @@
+step 1: warning: dont delete any file except articles folder and  output_file.xlsx
+step 2: go to terminal or cmd go to project directry
+
+step 3: cd blackCoffer_project
+step 4: pip install -r requirements.txt
+step 5: python main.py

@@ -1,0 +1,17 @@
+* created a class known as DetfaltSetup 
+	1. it create the dirtery articles where it stores all the file
+	2. and setup the a file output.xlx with the colums
+	3. it collect all stopword files and stores it in one tokeized list	
+
+* created class TextExtrection
+	1. it scrapes all the data form the link all article text and article title and stoes inside a list
+
+
+
+* it loop throw the articles
+	1. tokizerd each article
+	2. tokenizer senetence
+	3. add each data analysis fuctions
+	4. add all the data collected into the row as output csv
+	5. and add the file with the article data
+
